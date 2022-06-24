@@ -2,7 +2,7 @@
 
 ![gymweb](https://user-images.githubusercontent.com/75901275/175508496-690893cc-b0fd-45b5-bb09-be697b56ff6d.png)
 
-This project was created with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
