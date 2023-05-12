@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-![gymweb](https://user-images.githubusercontent.com/75901275/175508496-690893cc-b0fd-45b5-bb09-be697b56ff6d.png)
+![image](https://github.com/romickkundu21/GET-FIT/assets/75901275/7e8cccb1-ad54-47fa-9fc2-13f25757feae)
+
+
+![image](https://github.com/romickkundu21/GET-FIT/assets/75901275/e3ad39e5-6aa5-4afc-ae96-2fd4877a63ab)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
